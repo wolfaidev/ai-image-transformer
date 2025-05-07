@@ -1,0 +1,57 @@
+[
+  {
+    "label": "Studio Ghibli",
+    "style_id": "ghibli",
+    "prompt": "Transform this image into a soft, pastel-toned Studio Ghibli style illustration, with dreamy lighting and magical background elements."
+  },
+  {
+    "label": "Anime",
+    "style_id": "anime",
+    "prompt": "Convert this image into a detailed anime-style illustration with expressive characters, high contrast colors, and cinematic lighting."
+  },
+  {
+    "label": "LEGO",
+    "style_id": "lego",
+    "prompt": "Render this image as a LEGO scene made of plastic bricks, with toy-like proportions and vibrant colors, resembling a LEGO diorama."
+  },
+  {
+    "label": "Family Guy",
+    "style_id": "family_guy",
+    "prompt": "Turn this image into a cartoon-style scene in the visual style of Family Guy, with thick outlines, simple facial expressions, and flat colors."
+  },
+  {
+    "label": "Pixar",
+    "style_id": "pixar",
+    "prompt": "Transform this image into a Pixar-style 3D animation frame with soft lighting, cinematic depth, and expressive character design."
+  },
+  {
+    "label": "Minecraft",
+    "style_id": "minecraft",
+    "prompt": "Render this image in Minecraft style, using blocky 3D textures, pixelated lighting, and low-resolution cubic elements."
+  },
+  {
+    "label": "Simpsons",
+    "style_id": "simpsons",
+    "prompt": "Convert this image into a cartoon-style illustration inspired by The Simpsons, featuring yellow skin tones, bold outlines, and exaggerated expressions."
+  },
+  {
+    "label": "Castlevania",
+    "style_id": "castlevania",
+    "prompt": "Style this image like the Castlevania Netflix anime, with a dark gothic mood, sharp shadows, and dramatic anime line art."
+  },
+  {
+    "label": "Realistic 3D",
+    "style_id": "realistic_3d",
+    "prompt": "Render this image as a hyper-realistic 3D scene with cinematic lighting, rich surface textures, and photorealistic depth."
+  },
+  {
+    "label": "Disney",
+    "style_id": "disney",
+    "prompt": "Transform this image into a whimsical Disney-style illustration with magical elements, soft rounded features, and vibrant fantasy color tones."
+  },
+  {
+    "label": "Playmobil",
+    "style_id": "playmobil",
+    "prompt": "Reimagine this image as a Playmobil toy scene, using plastic textures, simple toy figures, and colorful background environments."
+  }
+] 
